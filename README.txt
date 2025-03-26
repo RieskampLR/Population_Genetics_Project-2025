@@ -1,6 +1,6 @@
 README
 
-A Novel Tool for visualising and exploring Haplogroup Frequencies in ancient Popula-tions on an interactive Map
+A Novel Tool for visualising and exploring Haplogroup Frequencies in ancient Populations on an interactive Map
 Lea Rachel Rieskamp
 25.03.2025
 
